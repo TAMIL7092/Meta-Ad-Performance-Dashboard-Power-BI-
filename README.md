@@ -68,6 +68,7 @@ This dashboard helps in understanding marketing performance clearly and supports
   - ads.csv
   - campaigns.csv
   - users.csv
+- Meta Ad Explain.pdf 
 - Screenshots
 - README.md
 
