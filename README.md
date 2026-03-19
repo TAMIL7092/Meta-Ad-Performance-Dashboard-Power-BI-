@@ -57,7 +57,7 @@ This dashboard helps in understanding marketing performance clearly and supports
 ![Facebook Dashboard](FACEBOOK.png)
 
 ### Instagram Dashboard
-![Instagram Dashboard](instagram.png)
+![Instagram Dashboard](Instagram.png)
 
 ---
 
