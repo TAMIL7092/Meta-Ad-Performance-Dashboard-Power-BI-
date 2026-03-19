@@ -63,6 +63,11 @@ This dashboard helps in understanding marketing performance clearly and supports
 
 ## 📂 Project Files
 - Meta Ad Dashboard (.pbix)
+-  Dataset files:
+  - ad_events.csv
+  - ads.csv
+  - campaigns.csv
+  - users.csv
 - Screenshots
 - README.md
 
